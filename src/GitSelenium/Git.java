@@ -6,5 +6,10 @@ public class Git {
 		
 		System.out.println("Roullah");
 	}
+	
+	public static void push() {
+		
+		System.out.println("ahmad");
+	}
 
 }
