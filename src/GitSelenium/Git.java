@@ -11,5 +11,9 @@ public class Git {
 		
 		System.out.println("ahmad");
 	}
+	public void automated() {
+
+system.out.println("ajsj");
+	}
 
 }
